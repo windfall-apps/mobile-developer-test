@@ -8,18 +8,18 @@ With the Lukky mobile app, our users connect to their Instagram so we can intera
 
 From their feed, users can easily import or draw a contest.
 
-You can find an examples of publication and contest data models in the `assets/datasets` folder.
+You can find examples of publication and contest data models in the `assets/datasets` folder.
 
 # Exercise
 
 One of our mostly used widget allows users to see their feed and start a contest draw from the 
 publication in 1 tap.
 
-Based on a set of contests and set of publications, you will have to check if a publication 
-matches a contest to decide which screen to navigate to:
+Based on a set of contests and a set of publications, you will have to check if a publication 
+match a contest to decide which screen to navigate to:
 
-- No contest matches the publication: navigate to "New contest draw" screen
-- A contest matches the publication: navigate to "Contest details" screen
+- No contests matches the publication: navigate to "New contest draw" screen
+- A contest match the publication: navigate to "Contest details" screen
 
 We prepared a Figma so you can see the UI and get the design system details at this URL 
 https://www.figma.com/file/KnvjDIeWeLW3SOA0tlWddH/Lukky-Mobile-Engineer-test?node-id=0%3A1.
