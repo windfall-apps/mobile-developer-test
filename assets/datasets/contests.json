@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "publicationId": 2,
+        "accountId": 42,
+        "createdAt": "2022-02-01T14:59:08Z",
+        "updateAt": "2022-02-14T20:12:00Z",
+        "endsAt": "2022-02-22T19:00:00Z",
+        "status": "published",
+        "draws": [
+        	{
+        		"demo": true,
+        		"timestamp": "2022-02-14T20:12:00Z",
+        		"participants": 875,
+        		"rules": [],
+                "winners": ["@byleth"]
+        	}
+        ],
+        "socialNetwork": "instagram"
+    },
+    {
+        "id": 2,
+        "publicationId": 6,
+        "accountId": 42,
+        "createdAt": "2022-03-17T21:31:14Z",
+        "updateAt": "2022-03-17T21:31:14Z",
+        "endsAt": "2022-02-14T21:00:00Z",
+        "status": "drawn",
+        "draws":
+        [
+        	{
+        		"participants": 6426,
+        		"createdAt": "2022-03-17T21:31:14Z",
+        		"demo": false,
+        		"rules": [],
+                "winners": ["@kazuya", "@link"]
+        	}
+        ],
+        "socialNetwork": "instagram"
+    }
+]
